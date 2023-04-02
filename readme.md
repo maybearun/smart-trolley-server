@@ -1,3 +1,4 @@
+# Smart Trolley Server
 This is a set of instructions to run the server. This file exists so that you guys can understand what the actual fuck is going on. I will try to make it simple, but in case you dont understand, cry and beg for help (hope that this readme is fairly simple to understand and you dont end up in that situation)
 
 # Understanding the tech
